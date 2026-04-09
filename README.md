@@ -1,19 +1,51 @@
-# JavaScript Projects
+# JavaScript Projects Portfolio
 
-## Description
+This repository contains all the projects I created during this course.
 
-This repository contains JavaScript projects and exercises completed throughout my course.
+## Projects
 
-## Purpose
+### 1. To-Do List App
 
-The purpose of this repository is to practice and improve my JavaScript skills by building different projects and solving coding challenges.
+A simple application that allows users to add, delete, and mark tasks as complete.
 
-## Contents
+Technologies used:
 
-* JavaScript exercises
-* Small projects
-* Course assignments
+* HTML
+* CSS
+* JavaScript
 
-## Author
+---
 
-Dishawn Thompson
+### 2. Calculator
+
+A calculator that performs basic arithmetic operations.
+
+Technologies used:
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 3. Weather App
+
+This app fetches and displays weather data using an API.
+
+Technologies used:
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 4. Portfolio Website
+
+My personal portfolio showcasing my projects and skills.
+
+Technologies used:
+
+* HTML
+* CSS
+* JavaScript
